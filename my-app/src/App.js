@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Time from './Components/Time';
 
 function App() {
   return (
     <div>
-      Hello
+      <Time/>
     </div>
   );
 }
